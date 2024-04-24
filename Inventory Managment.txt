@@ -1,0 +1,17 @@
+Inventory Mangment Module is for a Hospital Managment.
+
+User Info:
+It will allow the Admin of the Inventory Department to recodrd the Products as they are added and stored in the inventory.
+While Admin will also be responsible for distribution of these items to the other departments and mintain regular recodrs of all transactions carried out.
+
+Module Sections:
+The module has, Dashbord, Add Items, All products, Genral items, Hygenic Items, Medical items, Electrical Items, Other Items, Orders and Report Section.
+It will allow the admin to maintain the records easily. 
+
+Developer info: 
+Abdullah
+Alishba Shahid
+Muhammad Ehtesham Aurangzeb
+Muhammad Talha
+Wassam Muneed 
+Zainab Jabeen
